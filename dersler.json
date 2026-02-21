@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1771709871,
+        "gun": "Pazartesi",
+        "saat": "08.20",
+        "ders": "Silah Bilgisi",
+        "hoca": "Ramazan YENER"
+    },
+    {
+        "id": 1771709905,
+        "gun": "Pazartesi",
+        "saat": "09.10",
+        "ders": "Silah Bilgisi",
+        "hoca": "Ramazan YENER"
+    },
+    {
+        "id": 1771709927,
+        "gun": "Pazartesi",
+        "saat": "10.10",
+        "ders": "Psikoloji",
+        "hoca": "Elif DARICI"
+    }
+]
